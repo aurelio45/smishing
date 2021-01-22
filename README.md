@@ -1,4 +1,4 @@
-# SmiShinG
+# Smishing
 A script that takes its power from the text belt.
 Install it and open with browser.
 Type victim number with area code.
